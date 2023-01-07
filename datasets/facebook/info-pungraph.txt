@@ -1,0 +1,7 @@
+Python type TUNGraph:
+  Nodes:                    333
+  Edges:                    2519
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         0
+  Zero OutDeg Nodes:        0
+  NonZero In-Out Deg Nodes: 333
